@@ -1,0 +1,26 @@
+[
+    {
+        "tipo": "DNI",
+        "numero": "232323422323",
+        "razonSocial": "empresa 01",
+        "id": "146989754"
+    },
+    {
+        "tipo": "DNI",
+        "numero": "232323422323",
+        "razonSocial": "empresa 02",
+        "id": "36624199"
+    },
+    {
+        "tipo": "DNI",
+        "numero": "232323422323",
+        "razonSocial": "empresa 03",
+        "id": "324459463"
+    },
+    {
+        "tipo": "DNI",
+        "numero": "232323422323",
+        "razonSocial": "empresa 04",
+        "id": "1409517397"
+    }
+]
