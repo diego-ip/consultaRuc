@@ -4,8 +4,6 @@ import { EmpleadorService } from '../empleador.service';
 import { Empleador } from 'src/app/interface/empleador';
 import { Observable } from 'rxjs';
 
-
-
 @Component({
   selector: 'app-inicio-consulta',
   templateUrl: './inicio-consulta.component.html',
